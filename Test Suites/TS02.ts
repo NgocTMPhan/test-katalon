@@ -15,11 +15,29 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/ngoc01</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c0200cd0-aeaf-4672-83bc-0b13c94c8626</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ca0c3ff4-765d-4887-b28a-5b5c7067a85b</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>403a202a-696c-4fd3-bb1d-317f4fa519ba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/ngoc02</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>50362625-5de3-4c8a-ad56-2f310a8def21</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/test ssh-mac</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

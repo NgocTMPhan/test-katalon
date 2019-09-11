@@ -5,4 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f96c319e-2950-47e4-9b67-823e2fa09d41</testCaseGuid>
+   <variable>
+      <defaultValue>'cgscdsags'</defaultValue>
+      <description></description>
+      <id>c0200cd0-aeaf-4672-83bc-0b13c94c8626</id>
+      <masked>false</masked>
+      <name>ngoc01</name>
+   </variable>
+   <variable>
+      <defaultValue>'dhsvdhasvd'</defaultValue>
+      <description></description>
+      <id>ca0c3ff4-765d-4887-b28a-5b5c7067a85b</id>
+      <masked>false</masked>
+      <name>test</name>
+   </variable>
 </TestCaseEntity>

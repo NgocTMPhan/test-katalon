@@ -18,17 +18,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('https://news.zing.vn/')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
-
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), ngoc01)
-
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), test)
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Zingvn - Tin tc 24h hnh nh n tng - ZINGVN/a_Khi Hoi Linh ni vi k gian  ngy gi T Thi t_c5d7de'))
 
 WebUI.closeBrowser()
 
