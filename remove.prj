@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>removeEventLog</name>
+   <name>remove</name>
    <tag></tag>
    <UUID>195f7bfa-0ca9-4306-9557-d33e2a26559f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
